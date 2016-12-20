@@ -1,4 +1,4 @@
-minetest.register_node("monitors:monitor", {
+minetest.register_node("monitors_galore:monitor", {
 	description = "Monitor",
   tiles = {
 			"monitor_side.png",
@@ -22,7 +22,7 @@ minetest.register_node("monitors:monitor", {
 	groups = {cracky = 3},
 	drop = "monitor:monitor"
 })
-minetest.register_node("monitors:monitor2", {
+minetest.register_node("monitors_galore:monitor2", {
 	description = "Monitor 2",
   tiles = {
 			"monitor_side.png",
